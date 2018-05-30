@@ -1,2 +1,23 @@
-# PSRS
-Parallel Sorting by Regular Sampling
+#*****************************************************************************#
+#*                                                                           *#
+#*                                    PSRS                                   *#
+#*                        ============================                       *#
+#*                                                                           *#
+#*                            The C Program Package                          *#
+#*                  for Parallel Sorting by Regular Sampling                 *#
+#*                                                                           *#
+#*                                Xingzhong Li                               *#
+#*                       email : xzli8@mail.ustc.edu.cn                      *#
+#*                                                                           *#
+#*****************************************************************************#
+
+
+1.Introduction :
+
+  Parallel Sorting by Regular Sampling
+
+2.Directory layout :
+
+  PSRS.c : source code
+  Makefile : makefile for this package
+  run.sh : script to run the code
